@@ -2,7 +2,7 @@
 config = {
     # ip or hostname to bind the socket to, this only applies when running the server in
     # standalone mode.
-    "host": "157.90.235.4",
+    "host": "0.0.0.0",
     # port to bind to, this only applies when running the server in standalone mode.
     "port": 31080,
     "db_url": "sqlite://:memory:",
